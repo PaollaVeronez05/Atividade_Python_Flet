@@ -1,12 +1,14 @@
 # Atividade Python com Flet
 
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Flet](https://img.shields.io/badge/Flet-Framework-purple) ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+
 Repositório com atividades práticas desenvolvidas em Python utilizando o framework **Flet**, com foco na criação de interfaces gráficas.
 
 ---
 
 ## Atividades Desenvolvidas
 
-### Atividade 1 — Cartão de Apresentação
+### Atividade 1  Cartão de Apresentação
 
 Foi desenvolvida uma interface de apresentação utilizando componentes de texto do Flet.
 
@@ -15,12 +17,13 @@ A aplicação apresenta o nome e a área profissional, além de utilizar configu
 **Resultado**
 
 <div align="center">
-  <img src="./imagens/cartao-apresentacao.png" width="350">
+  <img src="<img width="253" height="476" alt="image" src="https://github.com/user-attachments/assets/8473b9a7-e9bc-4be8-a5b1-22c71fc74dde" />
+" width="350">
 </div>
 
 ---
 
-### Atividade 2 — Perfil Profissional
+### Atividade 2  Perfil Profissional
 
 Nesta atividade foi desenvolvida uma interface de perfil utilizando diferentes componentes do Flet.
 
@@ -39,12 +42,13 @@ A aplicação apresenta informações profissionais e dados de contato organizad
 **Resultado**
 
 <div align="center">
-  <img src="./imagens/perfil.png" width="350">
+  <img src="<img width="235" height="269" alt="image" src="https://github.com/user-attachments/assets/8edf0a19-01a2-466b-b250-22aacad1791b" />
+" width="350">
 </div>
 
 ---
 
-### Atividade 3 — Formulário de Cadastro
+### Atividade 3  Formulário de Cadastro
 
 Foi desenvolvido um formulário para entrada e validação de informações.
 
@@ -62,12 +66,13 @@ O usuário pode inserir seu nome, selecionar a opção de aceite dos termos e en
 **Resultado**
 
 <div align="center">
-  <img src="./imagens/formulario.png" width="350">
+  <img src="<img width="311" height="340" alt="image" src="https://github.com/user-attachments/assets/2aab752a-daac-48b3-b74a-5b8b98bc808c" />
+" width="350">
 </div>
 
 ---
 
-### Atividade 4 — Mercado do Mago
+### Atividade 4 Mercado do Mago
 
 Nesta atividade foi desenvolvida uma aplicação para cadastro e controle de itens.
 
@@ -87,7 +92,8 @@ O usuário pode inserir o nome de um item e adicioná-lo à lista. Cada item pos
 **Resultado**
 
 <div align="center">
-  <img src="./imagens/mercado-do-mago.png" width="350">
+  <img src="<img width="320" height="332" alt="image" src="https://github.com/user-attachments/assets/56801454-5224-404a-a308-c61efc1f2ea1" />
+" width="350">
 </div>
 
 ---
