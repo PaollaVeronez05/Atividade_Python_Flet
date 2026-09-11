@@ -5,13 +5,17 @@
 ![Flet](https://img.shields.io/badge/Flet-Framework-purple)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
-## Sobre o projeto
+---
+
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como uma atividade prática utilizando a linguagem Python e o framework Flet para criação de interfaces gráficas.
 
-As atividades têm como objetivo aplicar conceitos de programação e desenvolvimento de interfaces, trabalhando com componentes visuais, eventos, entrada de dados, validações e atualização dinâmica das aplicações.
+As atividades foram desenvolvidas com o objetivo de praticar conceitos de programação, criação de interfaces, utilização de componentes visuais, eventos, entrada de dados, validações e atualização dinâmica das aplicações.
 
-O projeto está organizado em diferentes arquivos Python, sendo cada arquivo responsável por uma atividade ou exemplo desenvolvido durante o processo de aprendizagem.
+O projeto é composto por diferentes arquivos Python, sendo cada um responsável por uma atividade ou exemplo desenvolvido durante o processo de aprendizagem.
+
+---
 
 ## Objetivos
 
@@ -19,22 +23,26 @@ O projeto está organizado em diferentes arquivos Python, sendo cada arquivo res
 - Conhecer e utilizar o framework Flet;
 - Criar interfaces gráficas utilizando Python;
 - Trabalhar com componentes de interface;
-- Utilizar eventos e funções;
+- Utilizar funções e eventos;
 - Realizar validação de dados;
 - Manipular informações inseridas pelo usuário;
 - Desenvolver aplicações interativas;
 - Praticar a organização de projetos em Python.
 
-## Tecnologias utilizadas
+---
+
+## Tecnologias Utilizadas
 
 | Tecnologia | Utilização |
 |---|---|
 | Python | Linguagem de programação utilizada no projeto |
-| Flet | Desenvolvimento das interfaces gráficas |
-| Visual Studio Code | Ambiente de desenvolvimento |
-| GitHub | Versionamento e armazenamento do projeto |
+| Flet | Framework utilizado para desenvolvimento das interfaces |
+| Visual Studio Code | Ambiente utilizado para desenvolvimento |
+| GitHub | Plataforma utilizada para versionamento e armazenamento |
 
-## Estrutura do projeto
+---
+
+## Estrutura do Projeto
 
 ```text
 Atividade_Python_Flet/
@@ -48,14 +56,21 @@ Atividade_Python_Flet/
 │   ├── main.py
 │   └── olamundo.py
 │
+├── imagens/
+│   ├── cartao-apresentacao.png
+│   ├── perfil.png
+│   ├── formulario.png
+│   └── mercado-do-mago.png
+│
 └── README.md
+````
 
 ---
 
-Atividades desenvolvidas
+Atividades Desenvolvidas
 Atividade 1 — Cartão de Apresentação
 
-Foi desenvolvida uma interface simples de apresentação utilizando componentes de texto do Flet.
+Foi desenvolvida uma interface de apresentação utilizando componentes de texto do Flet.
 
 A aplicação apresenta o nome e a área profissional, além de utilizar configurações de alinhamento, tamanho da janela, espaçamento e cores personalizadas.
 
@@ -63,11 +78,11 @@ Resultado
 <div align="center"> <img src="./imagens/cartao-apresentacao.png" width="350"> </div>
 Atividade 2 — Perfil Profissional
 
-Nesta atividade foi criada uma interface de perfil utilizando diferentes componentes do Flet.
+Nesta atividade foi desenvolvida uma interface de perfil utilizando diferentes componentes do Flet.
 
-A tela apresenta informações profissionais e dados de contato, organizados em um cartão visual.
+A aplicação apresenta informações profissionais e dados de contato organizados em um cartão visual.
 
-Foram utilizados:
+Foram utilizados componentes como:
 
 Container;
 Text;
@@ -82,7 +97,7 @@ Atividade 3 — Formulário de Cadastro
 
 Foi desenvolvido um formulário para entrada e validação de informações.
 
-O usuário pode inserir seu nome, aceitar os termos e enviar os dados. Após o envio, a aplicação apresenta uma mensagem personalizada.
+O usuário pode inserir seu nome, selecionar a opção de aceite dos termos e enviar os dados. Após o envio, a aplicação apresenta uma mensagem personalizada.
 
 Funcionalidades
 Campo para nome completo;
@@ -97,7 +112,7 @@ Atividade 4 — Mercado do Mago
 
 Nesta atividade foi desenvolvida uma aplicação para cadastro e controle de itens.
 
-O usuário pode inserir um item e adicioná-lo à lista. Cada item possui controles para alterar sua quantidade.
+O usuário pode inserir o nome de um item e adicioná-lo à lista. Cada item possui controles para aumentar ou diminuir sua quantidade.
 
 Funcionalidades
 Cadastro de itens;
@@ -110,7 +125,7 @@ Redução da quantidade;
 Mensagem de confirmação.
 Resultado
 <div align="center"> <img src="./imagens/mercado-do-mago.png" width="350"> </div>
-Outros exercícios
+Outros Exercícios
 Contador
 
 O arquivo main.py apresenta uma aplicação simples de contador.
@@ -121,9 +136,9 @@ Olá Mago
 
 O arquivo olamundo.py apresenta um exemplo inicial de aplicação utilizando Flet, exibindo uma mensagem de boas-vindas na interface.
 
-Principais conceitos praticados
+Principais Conceitos Praticados
 
-Durante o desenvolvimento das atividades foram trabalhados os seguintes conceitos:
+Durante o desenvolvimento das atividades foram trabalhados conceitos fundamentais de Python e Flet, incluindo:
 
 Funções;
 Variáveis;
@@ -144,10 +159,10 @@ Icon;
 Container;
 Row;
 Column.
-Como executar o projeto
+Como Executar
 1. Instalar o Python
 
-Verifique se o Python está instalado:
+Verifique se o Python está instalado na máquina:
 
 python --version
 2. Instalar o Flet
@@ -165,11 +180,20 @@ Depois:
 cd Flet
 5. Executar as atividades
 
-Para executar cada atividade, utilize:
+Para executar a primeira atividade:
 
 python ativ1.py
+
+Para executar a segunda:
+
 python ativ2.py
+
+Para executar a terceira:
+
 python ativ3.py
+
+Para executar a quarta:
+
 python ativ4.py
 Funcionalidades
 Arquivo	Descrição
@@ -208,33 +232,30 @@ Curso Técnico em Desenvolvimento de Sistemas
 
 Repositório
 
-O código-fonte do projeto está disponível no GitHub:
+O código-fonte completo do projeto está disponível no GitHub:
 
 Atividade Python com Flet
 
-Imagens do projeto
+Organização das Imagens
 
-Para que as imagens sejam exibidas corretamente no GitHub, mantenha a seguinte estrutura:
+As imagens utilizadas no README devem estar dentro da pasta imagens, localizada na raiz do projeto.
 
-Atividade_Python_Flet/
-│
-├── README.md
-│
-├── imagens/
-│   ├── cartao-apresentacao.png
-│   ├── perfil.png
-│   ├── formulario.png
-│   └── mercado-do-mago.png
-│
-└── Flet/
-    ├── ativ1.py
-    ├── ativ2.py
-    ├── ativ3.py
-    ├── ativ4.py
-    ├── inicio.py
-    ├── main.py
-    └── olamundo.py
+Os arquivos devem estar organizados da seguinte forma:
 
-Desenvolvido por Paolla Paula Veronez
+imagens/
+│
+├── cartao-apresentacao.png
+├── perfil.png
+├── formulario.png
+└── mercado-do-mago.png
+Considerações Finais
+
+A atividade permitiu aplicar conhecimentos de Python na criação de interfaces gráficas utilizando o Flet, explorando diferentes componentes e recursos de interação com o usuário.
+
+O projeto representa uma etapa prática de desenvolvimento e contribui para a construção de conhecimentos relacionados à programação e ao desenvolvimento de aplicações.
+
+Paolla Paula Veronez
+
 SENAI — Curso Técnico em Desenvolvimento de Sistemas
+
 2026
