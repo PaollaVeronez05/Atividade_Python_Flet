@@ -8,7 +8,7 @@ Repositório com atividades práticas desenvolvidas em Python utilizando o frame
 
 ## Atividades Desenvolvidas
 
-### Atividade 1 — Cartão de Apresentação
+### Atividade 1  Cartão de Apresentação
 
 Foi desenvolvida uma interface de apresentação utilizando componentes de texto do Flet.
 
@@ -22,7 +22,7 @@ A aplicação apresenta o nome e a área profissional, além de utilizar configu
 
 ---
 
-### Atividade 2 — Perfil Profissional
+### Atividade 2 Perfil Profissional
 
 Nesta atividade foi desenvolvida uma interface de perfil utilizando diferentes componentes do Flet.
 
@@ -46,7 +46,7 @@ A aplicação apresenta informações profissionais e dados de contato organizad
 
 ---
 
-### Atividade 3 — Formulário de Cadastro
+### Atividade 3  Formulário de Cadastro
 
 Foi desenvolvido um formulário para entrada e validação de informações.
 
@@ -69,7 +69,7 @@ O usuário pode inserir seu nome, selecionar a opção de aceite dos termos e en
 
 ---
 
-### Atividade 4 — Mercado do Mago
+### Atividade 4  Mercado do Mago
 
 Nesta atividade foi desenvolvida uma aplicação para cadastro e controle de itens.
 
