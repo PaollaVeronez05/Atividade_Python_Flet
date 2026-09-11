@@ -4,7 +4,7 @@ Repositório com atividades práticas desenvolvidas em Python utilizando o frame
 
 ---
 
-## 📌 Atividades Desenvolvidas
+## Atividades Desenvolvidas
 
 ### Atividade 1 — Cartão de Apresentação
 
@@ -92,7 +92,7 @@ O usuário pode inserir o nome de um item e adicioná-lo à lista. Cada item pos
 
 ---
 
-## 🧩 Outros Exercícios
+## Outros Exercícios
 
 ### Contador
 
@@ -106,7 +106,7 @@ O arquivo `olamundo.py` apresenta um exemplo inicial de aplicação utilizando F
 
 ---
 
-## 🧠 Principais Conceitos Praticados
+## Principais Conceitos Praticados
 
 Durante o desenvolvimento das atividades foram trabalhados conceitos fundamentais de Python e Flet, incluindo:
 
@@ -135,7 +135,7 @@ Durante o desenvolvimento das atividades foram trabalhados conceitos fundamentai
 
 ---
 
-## ⚙️ Como Executar
+## Como Executar
 
 ### 1. Instalar o Python
 
@@ -184,7 +184,7 @@ python ativ4.py
 
 ---
 
-## 📁 Funcionalidades por Arquivo
+## Funcionalidades por Arquivo
 
 | Arquivo       | Descrição                          |
 |---------------|-------------------------------------|
@@ -198,7 +198,7 @@ python ativ4.py
 
 ---
 
-## 🎓 Aprendizados
+## Aprendizados
 
 O desenvolvimento deste projeto proporcionou a prática de conceitos fundamentais de Python aplicados à criação de interfaces gráficas.
 
@@ -208,7 +208,7 @@ As atividades também contribuíram para a compreensão da organização de apli
 
 ---
 
-## 🖼️ Organização das Imagens
+## Organização das Imagens
 
 As imagens utilizadas no README devem estar dentro da pasta `imagens`, localizada na raiz do projeto.
 
@@ -225,7 +225,7 @@ imagens/
 
 ---
 
-## 🏁 Considerações Finais
+## Considerações Finais
 
 A atividade permitiu aplicar conhecimentos de Python na criação de interfaces gráficas utilizando o Flet, explorando diferentes componentes e recursos de interação com o usuário.
 
@@ -233,22 +233,22 @@ O projeto representa uma etapa prática de desenvolvimento e contribui para a co
 
 ---
 
-## 👤 Autora
+## Autora
 
 **Paolla Paula Veronez**
 Estudante de Desenvolvimento de Sistemas
 
-## 🧑‍🏫 Orientadores
+## Orientadores
 
 - Prof. Paulo Camargo
 - Prof. Raul Porto Lopes
 
-## 🏫 Instituição
+## Instituição
 
 **SENAI** — Serviço Nacional de Aprendizagem Industrial
 Curso Técnico em Desenvolvimento de Sistemas
 
-## 🔗 Repositório
+## Repositório
 
 O código-fonte completo do projeto está disponível no GitHub:
 [Atividade Python com Flet](https://github.com/PaollaVeronez05/Atividade_Python_Flet)
